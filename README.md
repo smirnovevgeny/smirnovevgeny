@@ -8,7 +8,7 @@
 - [Neural network approach for bank transactions](https://github.com/smirnovevgeny/AlfaBattle2.0) [[article]](https://habr.com/ru/company/tinkoff/blog/454818/)
 - [Hybrid two-stage recommender system](https://github.com/smirnovevgeny/RekkoChallenge) [[article]](https://habr.com/ru/company/alfa/blog/551130/)
 - [Image segmenatation via classical CV approach](https://github.com/smirnovevgeny/Pattern-recognition)
-- [Andoid app for receipt recognition](https://github.com/smirnovevgeny/yourreceipts)
+- [Android app for receipt recognition](https://github.com/smirnovevgeny/yourreceipts)
 
 
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [ods]: https://opendatascience.slack.com/team/U4AQM4FV0
-[linkedin]: https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D1%81%D0%BC%D0%B8%D1%80%D0%BD%D0%BE%D0%B2-767a92117/
+[linkedin]: https://www.linkedin.com/in/smirnov-evgeny/
