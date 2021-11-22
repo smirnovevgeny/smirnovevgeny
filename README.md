@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Smirnov Evgeny | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
 [<img align="left" alt="Smirnov Evgeny | ods.ai" width="22px" src="https://cdn.worldvectorlogo.com/logos/slack-1.svg" />][ods]
-[<img align="left" alt="Smirnov Evgeny | ods.ai" width="22px" src="https://habrastorage.org/r/w1560/webt/f1/lq/ka/f1lqkaveikdfqkb_rip_4vq4s_8.png" />][ods]
+[<img align="left" alt="Smirnov Evgeny | habr" width="22px" src="https://habrastorage.org/r/w1560/webt/f1/lq/ka/f1lqkaveikdfqkb_rip_4vq4s_8.png" />][habr]
 
 
 <!--
