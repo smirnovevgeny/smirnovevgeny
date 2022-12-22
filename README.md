@@ -1,4 +1,4 @@
-### Smirnov Evgeny - CDS & Head of ML Laboratory at Alfa-Bank
+### Smirnov Evgeny - Head of ML Laboratory & CDS at Alfa-Bank
 
 - Work in DS since 2016: (Tinkoff → Alfa-Bank)
 - [MSc](http://www.machinelearning.ru/wiki/images/c/c5/Smirnov2018MThesis.pdf) and BCs in Data Science at MIPT
