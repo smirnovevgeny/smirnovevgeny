@@ -3,7 +3,7 @@
 - Work in DS since 2016: (Tinkoff → Alfa-Bank)
 - [MSc](http://www.machinelearning.ru/wiki/images/c/c5/Smirnov2018MThesis.pdf) and BCs in Data Science at MIPT
 - [Challange my skills in ML competitions](https://boosters.pro/user/evgeny)
-- Tg-channel author ["Not boring DS"](https://t.me/not_boring_ds)
+- Tg-channels author ["Not boring Data Science"](https://t.me/not_boring_ds), ["Not boring Data Science Jobs"](https://t.me/not_boring_ds_jobs)
 
 ## Significant repos
 - [Neural network approach for bank transactions](https://github.com/smirnovevgeny/AlfaBattle2.0) [[article]](https://habr.com/ru/company/tinkoff/blog/454818/)
